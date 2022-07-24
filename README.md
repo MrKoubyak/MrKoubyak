@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koubyak - AKA Laurent LEFEVRE
+- 👋 Hi, I’m @MrKoubyak - AKA Laurent LEFEVRE
 - 👀 I’m interested in Game Design & Game Development
 - 🌱 I’m currently learning DevOps, C# & Unity
 - 💞️ I’m looking to collaborate on Game Production
